@@ -1,0 +1,24 @@
+div {
+    border: 1px solid color(srgb red green blue)
+}
+
+/* GRID*/
+.container {
+    display: grid;
+}
+
+.top {
+    
+}
+
+.leftbox {
+  
+}
+
+.rightbox {
+    
+} 
+
+.bottom {
+    
+}
